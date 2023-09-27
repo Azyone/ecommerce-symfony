@@ -1,0 +1,29 @@
+{
+  "name": "ecommerce-symfony",
+  "version": "1.0.0",
+  "description": "## The website :computer:",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "sass": "^1.68.0",
+    "sass-loader": "^13.3.2",
+    "webpack-cli": "^5.1.4",
+    "webpack": "^5.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azyone/ecommerce-symfony.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azyone/ecommerce-symfony/issues"
+  },
+  "homepage": "https://github.com/Azyone/ecommerce-symfony#readme"
+}
